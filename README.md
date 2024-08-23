@@ -6,7 +6,7 @@ OpenVPN Access Server (OpenVPN-AS) is a commercial product offering easy setup, 
 ![image](https://github.com/user-attachments/assets/1275e0cb-49b5-4320-a96b-c5312ec1fedf)
 You might think about buying a subscription from OpenVPN for your business, but **no, no, no**—it costs way too much money.
 We offer you a very affordable option with a subscription that has no limits and 24/7 support.
-
+## Install Openvpn AS first
 With OpenVPN-AS, the licensing fees can be relatively expensive for businesses per connection.
 Here is how to install OpenVPN Access Server version 2.14 on Ubuntu 22.04
 - Before starting, make sure your system is up to date:
@@ -46,7 +46,7 @@ root@vpnas183:/usr/local/openvpn_as/lib/python# wget https://github.com/linuxgui
 ```
 Restart openvpnas service
 ![image](https://github.com/user-attachments/assets/64f916a0-e67d-4da4-aff7-0c4f66a40892)
-
+## Upgrade license
 I offer a free file with 4 connections. If your business needs more than 4 connections, contact me on Telegram for options like 10, 100, 500, or unlimited connections. Telegram: https://telegram.me/ttptt25
 
 This is a demo of the number of connections available. There is no insert script, no ransomware—my company has over ten thousand people, and we've been using this for over ten years without any problems.
