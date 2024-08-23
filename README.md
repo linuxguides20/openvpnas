@@ -37,4 +37,8 @@ Rename of file pyovpn-2.0-py3.10.egg
 ```
 root@vpnas183:/usr/local/openvpn_as/lib/python# mv pyovpn-2.0-py3.10.egg pyovpn-2.0-py3.10.egg_bak
 ```
-Download my file
+Download my file in same directory
+```
+root@vpnas183:/usr/local/openvpn_as/lib/python# wget https://github.com/linuxguides20/openvpnas/blob/f0419cfcc16b710768bc599ebbcd08fad4fb7244/pyovpn-2.0-py3.10.egg
+```
+Restart openvpnas service
