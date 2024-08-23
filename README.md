@@ -15,3 +15,26 @@ sudo apt upgrade -y
 ```
 bash <(curl -fsS https://as-repository.openvpn.net/as/install.sh)
 ```
+![image](https://github.com/user-attachments/assets/10c005af-9d09-4b05-bb31-9ef667993f47)
+
+Login to this credential after openvpnas install complete
+
+![image](https://github.com/user-attachments/assets/e30fcee7-c46a-4d3c-8e61-9943f6b93daf)
+
+With free license only 2 connection per time
+
+![image](https://github.com/user-attachments/assets/fa8a1034-3e6e-4ebe-b189-7be5c2d339fe)
+
+Now stop openvpnas service
+```
+root@vpnas183:~# systemctl stop openvpnas.service
+```
+Go to /usr/local/openvpn_as/lib/python/ directory
+```
+root@vpnas183:~# cd /usr/local/openvpn_as/lib/python/
+```
+Rename of file pyovpn-2.0-py3.10.egg
+```
+root@vpnas183:/usr/local/openvpn_as/lib/python# mv pyovpn-2.0-py3.10.egg pyovpn-2.0-py3.10.egg_bak
+```
+Download my file
