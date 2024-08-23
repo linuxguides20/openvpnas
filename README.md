@@ -1,4 +1,6 @@
 # How to installing OpenVPN-AS version 2.14 on Ubuntu 22.04 with unlimit connections
+![image](https://github.com/user-attachments/assets/937d6191-93b0-4ebb-ba77-4cf36016356a)
+
 ![image](https://github.com/user-attachments/assets/eaa99a5f-4eff-4790-9435-148239dacbe7)
 
 OpenVPN Access Server (OpenVPN-AS) is a commercial product offering easy setup, a web interface, and professional support, ideal for businesses. OpenVPN Server, the open-source version, is more flexible and customizable but requires technical expertise, making it better suited for users seeking a free, hands-on solution.
